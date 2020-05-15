@@ -8,6 +8,6 @@ This repo contains two main directories: algorithms and structures. The table of
 TOC
 ====
 1. [Algorithms](./algorithms)
-    1. *empty so far*
+    1. [Kadane circular](./algorithms/KadaneCircular)
 2. [Data Structures](./structures)
     1. [Trie](./structures/Trie)
