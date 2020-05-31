@@ -9,5 +9,6 @@ TOC
 ====
 1. [Algorithms](./algorithms)
     1. [Kadane circular](./algorithms/KadaneCircular)
+    1. [Edit distance](./algorithms/EditDistance)
 2. [Data Structures](./structures)
     1. [Trie](./structures/Trie)
